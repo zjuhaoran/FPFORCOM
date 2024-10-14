@@ -30,12 +30,6 @@ Since code generation is time-consuming, the complete mutation sequence file is 
 `output`- The data files saved  in the Jupyter notebook can be found in this folder.
 
 
-
-
-##  System Requirements
-
-The notebook is runs in Windows.
-
 ## Hardware requirements
 
 Only a standard computer is required.
