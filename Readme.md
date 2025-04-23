@@ -40,7 +40,7 @@ Since code generation is time-consuming, the complete mutation sequence file is 
 
 ##  System Requirements
 
-The notebook is runs in Windows.
+The notebook runs in Windows.
 
 ## Hardware requirements
 
