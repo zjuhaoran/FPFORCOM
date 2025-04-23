@@ -1,0 +1,2460 @@
+{
+  "name": "Com1-IFRS based mutant data",
+  "references": null,
+  "creators": [],
+  "vessels": [],
+  "proteins": [
+    {
+      "id": "p1",
+      "name": "sfGFP-3BrF",
+      "constant": false,
+      "sequence": "M(3BrF)KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNFNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
+      "references": null
+    },
+    {
+      "id": "p2",
+      "name": "Com1-IFRS",
+      "constant": false,
+      "sequence": "MNKKPLNTLISATGLWMSRTGTIHKIKHHEISRSKIYIEMACGDHLVVNNSRSSRPARALKYHKYRKTCKRCRVSDEDLNKFLTKANEDQTSVKVKVVSAPTRTKKAMPKSVARAPKPLENSEAAQAQPSGSKFSPAIPVSTQESVSVPASVSTSISSISTGATASALVKGNTNPITSMSAPVQASAPALTKRQTDRLEVLLNPKDEISLNSGKPFRELESELLSRRKKDLQQIYAEERENYLGKLEREITRFFVDRGFLEIKSPILIPLEYIERMGIDNDTELSKQIFRVDKNFCLRPMLAPNLYNYLRKLDRALPDPIKIFEIGPCYRKESDGKEHLEEFTMLSFIQMGSGCTRENLESIITDFLNHLGIDFKIVGDSCMVYGDTLDVMHGDLELSSAVVGPIPLDREWGIDKPWIGAGFGLERLLKVKHDFKNIKRAARSESYYNGISTNL",
+      "references": null
+    },
+    {
+      "id": "p3",
+      "name": "N7H",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p4",
+      "name": "N7E",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p5",
+      "name": "N7Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p6",
+      "name": "H63L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p7",
+      "name": "H63M",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p8",
+      "name": "H63C",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p9",
+      "name": "H63A",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p10",
+      "name": "H63I",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p11",
+      "name": "H63D",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p12",
+      "name": "H63N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p13",
+      "name": "T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p14",
+      "name": "K67G",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p15",
+      "name": "K67S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p16",
+      "name": "K67L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p17",
+      "name": "K67N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p18",
+      "name": "K67T",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p19",
+      "name": "V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p20",
+      "name": "V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p21",
+      "name": "D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p22",
+      "name": "D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p23",
+      "name": "D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p24",
+      "name": "D76I",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p25",
+      "name": "D76N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p26",
+      "name": "D76A",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p27",
+      "name": "D76W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p28",
+      "name": "D76S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p29",
+      "name": "D76H",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p30",
+      "name": "H63L/K67L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p31",
+      "name": "H63L/T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p32",
+      "name": "H63L/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p33",
+      "name": "H63L/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p34",
+      "name": "H63L/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p35",
+      "name": "H63M/K67L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p36",
+      "name": "H63M/T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p37",
+      "name": "H63M/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p38",
+      "name": "H63M/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p39",
+      "name": "H63M/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p40",
+      "name": "H63C/K67G",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p41",
+      "name": "H63C/K67S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p42",
+      "name": "H63C/K67L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p43",
+      "name": "H63C/T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p44",
+      "name": "H63C/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p45",
+      "name": "H63C/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p46",
+      "name": "H63C/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p47",
+      "name": "H63C/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p48",
+      "name": "K67G/T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p49",
+      "name": "K67G/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p50",
+      "name": "K67G/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p51",
+      "name": "K67G/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p52",
+      "name": "K67S/T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p53",
+      "name": "T68F/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p54",
+      "name": "K67S/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p55",
+      "name": "K67S/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p56",
+      "name": "K67S/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p57",
+      "name": "K67L/T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p58",
+      "name": "K67L/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p59",
+      "name": "K67L/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p60",
+      "name": "K67L/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p61",
+      "name": "K67L/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p62",
+      "name": "K67L/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p63",
+      "name": "T68F/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p64",
+      "name": "T68F/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p65",
+      "name": "V74F/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p66",
+      "name": "T68F/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p67",
+      "name": "T68F/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p68",
+      "name": "V74F/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p69",
+      "name": "V74F/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p70",
+      "name": "V74W/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p71",
+      "name": "V74W/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p72",
+      "name": "V74W/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p73",
+      "name": "K67G/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p74",
+      "name": "K67G/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p75",
+      "name": "K67S/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p76",
+      "name": "H63L/K67G",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p77",
+      "name": "H63M/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p78",
+      "name": "K67S/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p79",
+      "name": "H63L/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p80",
+      "name": "H63M/K67G",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p81",
+      "name": "H63M/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p82",
+      "name": "H63M/K67S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p83",
+      "name": "H63L/K67S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p84",
+      "name": "H63L/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p85",
+      "name": "H63C/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p86",
+      "name": "N7E/H63C",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p87",
+      "name": "N7E/H63L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p88",
+      "name": "N7E/H63M",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p89",
+      "name": "N7E/K67S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p90",
+      "name": "N7E/K67L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p91",
+      "name": "N7E/K67G",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p92",
+      "name": "N7E/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p93",
+      "name": "N7E/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p94",
+      "name": "N7H/H63C",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p95",
+      "name": "N7H/H63L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p96",
+      "name": "N7H/H63M",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p97",
+      "name": "N7H/K67S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p98",
+      "name": "N7H/K67L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p99",
+      "name": "N7H/K67G",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p100",
+      "name": "N7H/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p101",
+      "name": "N7H/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p102",
+      "name": "N7Y/H63C",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p103",
+      "name": "N7Y/H63L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p104",
+      "name": "N7Y/H63M",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p105",
+      "name": "N7Y/K67S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p106",
+      "name": "N7Y/K67L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p107",
+      "name": "N7Y/K67G",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p108",
+      "name": "N7Y/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p109",
+      "name": "N7Y/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p110",
+      "name": "N7E/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p111",
+      "name": "N7E/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p112",
+      "name": "N7E/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p113",
+      "name": "N7E/T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p114",
+      "name": "N7H/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p115",
+      "name": "N7H/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p116",
+      "name": "N7H/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p117",
+      "name": "N7H/T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p118",
+      "name": "N7Y/D76F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p119",
+      "name": "N7Y/D76Y",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p120",
+      "name": "N7Y/D76L",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p121",
+      "name": "N7Y/T68F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p122",
+      "name": "N7Y/H63L/K67N/V74W/D76N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p123",
+      "name": "N7Y/H63A/K67N/V74W/D76N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p124",
+      "name": "N7Y/H63L/K67N/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p125",
+      "name": "N7Y/H63A/K67N/V74W/D76H",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p126",
+      "name": "N7Y/H63A/K67N/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p127",
+      "name": "N7Y/H63A/K67N/V74W/D76S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p128",
+      "name": "N7Y/H63D/K67N/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p129",
+      "name": "N7Y/H63I/K67N/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p130",
+      "name": "N7Y/H63A/K67N/T68F/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p131",
+      "name": "N7Y/H63L/K67N/V74W/D76H",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p132",
+      "name": "N7Y/H63I/K67N/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p133",
+      "name": "N7Y/H63D/K67N/V74W/D76N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p134",
+      "name": "N7Y/H63I/K67N/V74F/D76N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p135",
+      "name": "N7Y/H63A/K67N/T68F/V74W/D76N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p136",
+      "name": "N7Y/H63L/K67N/V74F",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p137",
+      "name": "N7Y/H63I/K67N/V74W/D76N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p138",
+      "name": "N7Y/H63L/K67N/T68F/V74W",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p139",
+      "name": "N7Y/H63L/K67N/T68F/V74W/D76N",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p140",
+      "name": "N7Y/H63L/K67N/V74W/D76S",
+      "constant": false,
+      "references": null
+    },
+    {
+      "id": "p141",
+      "name": "N7Y/H63D/K67N/V74W/D76S",
+      "constant": false,
+      "references": null
+    }
+  ],
+  "complexes": [],
+  "small_molecules": [
+    {
+      "id": "s1",
+      "name": "3BrF",
+      "constant": false,
+      "canonical_smiles": "C1=CC(=CC(=C1)Br)CC(C(=O)O)N",
+      "inchikey": "InChI=1S/C9H10BrNO2/c10-7-3-1-2-6(4-7)5-8(11)9(12)13/h1-4,8H,5,11H2,(H,12,13)",
+      "references": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/554078"
+      ]
+    }
+  ],
+  "reactions": [
+    {
+      "id": "r1",
+      "name": "PylRS aminoacylation",
+      "reversible": false,
+      "kinetic_law": {
+        "equation": "(Fluorescence)/(OD600**t)",
+        "equation_type": "rateLaw",
+        "variables": []
+      },
+      "species": [
+        {
+          "species_id": "s1",
+          "stoichiometry": -1.0
+        },
+        {
+          "species_id": "p1",
+          "stoichiometry": 1.0
+        }
+      ],
+      "modifiers": null
+    }
+  ],
+  "measurements": [
+    {
+      "id": "m1",
+      "name": "Com1-IFRS based mutant data",
+      "species_data": [
+        {
+          "species_id": "p2",
+          "initial": 1.0,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p3",
+          "initial": 1.484,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p4",
+          "initial": 1.276,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p5",
+          "initial": 1.18,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p6",
+          "initial": 1.491,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p7",
+          "initial": 1.379,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p8",
+          "initial": 1.368,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p9",
+          "initial": 1.352,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p10",
+          "initial": 1.288,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p11",
+          "initial": 1.22,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p12",
+          "initial": 1.105,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p13",
+          "initial": 1.151,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p14",
+          "initial": 1.341,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p15",
+          "initial": 1.226,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p16",
+          "initial": 1.22,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p17",
+          "initial": 1.166,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p18",
+          "initial": 1.104,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p19",
+          "initial": 1.219,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p20",
+          "initial": 1.132,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p21",
+          "initial": 1.398,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p22",
+          "initial": 1.332,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p23",
+          "initial": 1.299,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p24",
+          "initial": 1.292,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p25",
+          "initial": 1.287,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p26",
+          "initial": 1.275,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p27",
+          "initial": 1.232,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p28",
+          "initial": 1.195,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p29",
+          "initial": 1.127,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p30",
+          "initial": 0.727,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p31",
+          "initial": 1.013,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p32",
+          "initial": 1.323,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p33",
+          "initial": 0.992,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p34",
+          "initial": 1.048,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p35",
+          "initial": 0.813,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p36",
+          "initial": 1.504,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p37",
+          "initial": 0.466,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p38",
+          "initial": 1.188,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p39",
+          "initial": 1.097,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p40",
+          "initial": 0.946,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p41",
+          "initial": 0.722,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p42",
+          "initial": 0.677,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p43",
+          "initial": 0.459,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p44",
+          "initial": 1.438,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p45",
+          "initial": 1.429,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p46",
+          "initial": 0.931,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p47",
+          "initial": 0.442,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p48",
+          "initial": 0.877,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p49",
+          "initial": 0.079,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p50",
+          "initial": 0.771,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p51",
+          "initial": 0.544,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p52",
+          "initial": 1.017,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p53",
+          "initial": 0.642,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p54",
+          "initial": 0.249,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p55",
+          "initial": 1.138,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p56",
+          "initial": 1.115,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p57",
+          "initial": 0.401,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p58",
+          "initial": 0.124,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p59",
+          "initial": 0.055,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p60",
+          "initial": 0.5,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p61",
+          "initial": 0.887,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p62",
+          "initial": 0.332,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p63",
+          "initial": 0.84,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p64",
+          "initial": 0.693,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p65",
+          "initial": 0.514,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p66",
+          "initial": 0.743,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p67",
+          "initial": 0.654,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p68",
+          "initial": 0.717,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p69",
+          "initial": 0.541,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p70",
+          "initial": 0.131,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p71",
+          "initial": 0.11,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p72",
+          "initial": 0.089,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p73",
+          "initial": 0.383,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p74",
+          "initial": 0.76,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p75",
+          "initial": 0.887,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p76",
+          "initial": 1.214,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p77",
+          "initial": 1.231,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p78",
+          "initial": 0.667,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p79",
+          "initial": 0.884,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p80",
+          "initial": 1.337,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p81",
+          "initial": 1.286,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p82",
+          "initial": 1.25,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p83",
+          "initial": 1.323,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p84",
+          "initial": 1.546,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p85",
+          "initial": 1.253,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p86",
+          "initial": 0.923,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p87",
+          "initial": 1.123,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p88",
+          "initial": 1.211,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p89",
+          "initial": 0.929,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p90",
+          "initial": 1.276,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p91",
+          "initial": 1.218,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p92",
+          "initial": 0.953,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p93",
+          "initial": 1.064,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p94",
+          "initial": 1.059,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p95",
+          "initial": 1.411,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p96",
+          "initial": 1.411,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p97",
+          "initial": 0.983,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p98",
+          "initial": 1.131,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p99",
+          "initial": 0.903,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p100",
+          "initial": 1.332,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p101",
+          "initial": 1.589,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p102",
+          "initial": 1.472,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p103",
+          "initial": 1.377,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p104",
+          "initial": 1.335,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p105",
+          "initial": 1.335,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p106",
+          "initial": 1.325,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p107",
+          "initial": 1.208,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p108",
+          "initial": 1.484,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p109",
+          "initial": 1.515,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p110",
+          "initial": 1.049,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p111",
+          "initial": 1.319,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p112",
+          "initial": 1.346,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p113",
+          "initial": 1.704,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p114",
+          "initial": 1.189,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p115",
+          "initial": 0.936,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p116",
+          "initial": 1.428,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p117",
+          "initial": 1.547,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p118",
+          "initial": 1.022,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p119",
+          "initial": 1.193,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p120",
+          "initial": 1.512,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p121",
+          "initial": 1.543,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p122",
+          "initial": 2.519,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p123",
+          "initial": 1.138,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p124",
+          "initial": 2.752,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p125",
+          "initial": 2.263,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p126",
+          "initial": 2.349,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p127",
+          "initial": 2.213,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p128",
+          "initial": 1.243,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p129",
+          "initial": 2.128,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p130",
+          "initial": 2.005,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p131",
+          "initial": 2.597,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p132",
+          "initial": 2.476,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p133",
+          "initial": 0.909,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p134",
+          "initial": 2.166,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p135",
+          "initial": 2.016,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p136",
+          "initial": 2.085,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p137",
+          "initial": 1.863,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p138",
+          "initial": 2.118,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p139",
+          "initial": 1.738,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p140",
+          "initial": 2.151,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        },
+        {
+          "species_id": "p141",
+          "initial": 0.891,
+          "data_unit": {
+            "base_units": []
+          },
+          "data": [],
+          "time": [],
+          "data_type": "http://purl.allotrope.org/ontologies/quality#AFQ_0000061",
+          "is_simulated": false
+        }
+      ],
+      "temperature": 310.0,
+      "temperature_unit": {
+        "name": "kelvin",
+        "base_units": [
+          {
+            "kind": "kelvin",
+            "exponent": 1,
+            "scale": 1.0
+          }
+        ]
+      }
+    }
+  ],
+  "equations": [
+    {
+      "species_id": "s1",
+      "equation": "",
+      "equation_type": "ode",
+      "variables": []
+    }
+  ],
+  "parameters": []
+}
