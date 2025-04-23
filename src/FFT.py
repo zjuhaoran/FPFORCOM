@@ -2,45 +2,38 @@
 import numpy as np
 import pandas as pd 
 import scipy.fftpack as fftpack
-
 from matplotlib import pyplot as plt
-
 from aaindex import aaindex1
+from sklearn.preprocessing import MinMaxScaler
+
 
 def get_numerical_sequence(sequence,dictionary):
     return  [dictionary[aminoacid] for aminoacid in sequence]
 
-def fft_plt_y(sequence,draw=False):
-
+def fft_process(sequence):
     fft_y=fftpack.fft(sequence) 
     abs_y=np.abs(fft_y)         
-    normalization_y= np.true_divide(abs_y, max(abs_y))  
-
-    x = np.linspace(0,1,len(sequence))         
-    normalization_x=x   
-
-    half_x = normalization_x[range(int(len(sequence)/2))]                                  
-    normalization_half_y = normalization_y[range(int(len(sequence)/2))]      
-    if draw:
-        plt.figure()
-        plt.plot(half_x,normalization_half_y,'b')
-        plt.title('Normalized Spectrum',fontsize=16,color='blue')
-        plt.show()
-
+                     
+    normalization_y= np.true_divide(abs_y, max(abs_y))  #min-max normalization to make spectrum scale between 0 and 1     
+    normalization_half_y = normalization_y[range(int(len(sequence)/2))]   #Select the symmetrical half as output.
     return normalization_half_y 
 
 
 def encoding(seq,aaindexvalue,N=None):
+    sequence = get_numerical_sequence(seq,aaindexvalue)
+    sequence = list(np.subtract(np.array(sequence), np.mean(sequence, axis=0))) # subtract mean to avoid 0 effects
     if N == None:
-        sequence = get_numerical_sequence(seq,aaindexvalue)
-        sequence = list(np.subtract(np.array(sequence), np.mean(sequence, axis=0))) # subtract mean to avoid 0 effects
+        pass
     else:
         sequence.extend([0]*(N-len(sequence)))   
-    return fft_plt_y(sequence,draw=False)
+    return fft_process(sequence)
 
 
 def get_aai_encoding(mutdict,N=None,indices=None):
-       
+        '''
+        Reference:
+        Mckenna A , Dubey S .Machine learning based predictive model for the analysis of sequence activity relationships using protein spectra and protein descriptors[J].Journal of biomedical informatics, 2022, 128:104016.DOI:10.1016/j.jbi.2022.104016.
+        '''
         #validate AAI indices are present in the input parameter, if not raise error
         if (indices == None or indices == ""):
             raise ValueError('AAI indices input parameter cannot be None or empty.')
